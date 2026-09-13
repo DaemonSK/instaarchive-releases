@@ -70,7 +70,11 @@ Then either:
 - **Download** takes everything the scan found.
 - **Review & select...** opens a window of thumbnails. Click a picture to select it, drag across several to select a run of them, and Shift-click to select everything between two. Selected pictures get a green outline and a green tick. There are filters along the top for images, videos, reels and carousels, and a **New only** filter for things you do not already have.
 
-When a scan is finished with, **Clear** on the results puts the page back to empty.
+Each profile gets its own card, and a card appears as soon as **that** profile is done — so with a
+long list you can review, select and download the first one while the rest are still scanning. Every
+card has its own **Review & select...**, its own download button naming exactly what it will queue,
+and its own **Clear**. **Clear all** at the bottom dismisses the lot. Nothing queued or downloaded is
+affected by clearing a card.
 
 ### Queue
 
