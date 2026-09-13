@@ -1,4 +1,4 @@
-# InstaArchive
+<img src="docs/banner.png" alt="InstaArchive" width="100%">
 
 Save Instagram photos and videos to your own PC, and keep them organised.
 
